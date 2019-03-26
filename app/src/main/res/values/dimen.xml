@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="progress_size">50dp</dimen>
+    <dimen name="margin_lt_error">16dp</dimen>
+    <dimen name="height_item_gif">200dp</dimen>
+
+</resources>
